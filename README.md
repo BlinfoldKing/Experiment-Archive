@@ -31,6 +31,18 @@ a List containing every experiment and other project i've conducted or currently
   tech : NodeJS, express, Mongo  
   description : an experiment to make a content management system using express and mongoDB  
 
+# Artificial Intelligence  
+ 
+ 1. [Fuzzy Logic](https://github.com/BlinfoldKing/Fuzzy-Logic-Study.py)
+  status : done  
+  tech : Python  
+  description : A study of Fuzzy Logic implemented in python
+  
+ 2. [Simulated Annealing](https://github.com/BlinfoldKing/Simulated-Annealing.py)  
+  status : done, to be improved
+  tech : Python
+  description :  a study case of Simulated Annealing implemented in python
+
 ## Mobile/Desktop Apps Development
 *Nothing for now*
 
